@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qi presented his Ph.D. Research Journey to the Fellow Ph.D. Students Across College of Science Departments
+title: Qi presented his Ph.D. research journey to the fellow Ph.D. students across College of Science departments.
 date: 2024-08-27 9:30:00-0400
 inline: false
 related_posts: false
