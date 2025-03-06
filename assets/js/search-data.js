@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology",
+          title: 'Our work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
