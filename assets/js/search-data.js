@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology-sparkles-smile",
-          title: 'Our work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
+            },},{id: "news-qi-s-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology-sparkles-smile",
+          title: 'Qi’s work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
           description: "",
           section: "News",},{id: "news-qi-presented-his-ph-d-research-journey-to-the-fellow-ph-d-students-across-college-of-science-departments",
           title: 'Qi presented his Ph.D. Research Journey to the Fellow Ph.D. Students Across College...',
