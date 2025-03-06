@@ -432,7 +432,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology-sparkles-smile",
+          section: "News",},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology",
           title: 'Our work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
           description: "",
           section: "News",},{id: "news-qi-presented-his-ph-d-research-journey-to-the-fellow-ph-d-students-across-college-of-science-departments",
