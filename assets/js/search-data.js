@@ -429,10 +429,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology",
+            },},{id: "news-our-work-climate-changes-drive-phytoplankton-community-through-complementarity-and-selection-effects-in-a-large-mesotrophic-reservoir-has-been-accepted-for-publication-in-journal-of-oceanology-and-limnology-sparkles-smile",
           title: 'Our work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
           description: "",
           section: "News",},{id: "news-qi-presented-his-ph-d-research-journey-to-the-fellow-ph-d-students-across-college-of-science-departments",
@@ -440,7 +437,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-our-work-submitted-to-freshwater-biology-has-had-a-revision",
+          title: 'Our work submitted to Freshwater Biology has had a revision.',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
