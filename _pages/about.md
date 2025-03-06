@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<em>"Eternity begins and ends with the ocean's tides."</em>"
+subtitle: <em>"Eternity begins and ends with the ocean's tides."</em>
 
 profile:
   align: right
