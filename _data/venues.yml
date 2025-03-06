@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Sci. Total Environ.":
+  url: https://www.sciencedirect.com/journal/science-of-the-total-environment
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"JOL":
+  url: https://link.springer.com/journal/343
   color: "#009f36"
