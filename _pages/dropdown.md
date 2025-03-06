@@ -9,5 +9,5 @@ children:
     permalink: /cv/
   - title: divider
   - title: 🐱
-    permalink: /profiles/
+    permalink: /people/
 ---
