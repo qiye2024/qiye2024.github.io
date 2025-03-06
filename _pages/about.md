@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <em>"Eternity begins and ends with the ocean's tides."</em>
 
