@@ -433,7 +433,7 @@ ninja.data = [{
           title: 'Qi’s work, “Climate Changes Drive Phytoplankton Community Through Complementarity and Selection Effects in...',
           description: "",
           section: "News",},{id: "news-qi-presented-his-ph-d-research-journey-to-the-fellow-ph-d-students-across-college-of-science-departments",
-          title: 'Qi presented his Ph.D. Research Journey to the Fellow Ph.D. Students Across College...',
+          title: 'Qi presented his Ph.D. research journey to the fellow Ph.D. students across College...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
