@@ -437,8 +437,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-submitted-to-freshwater-biology-has-had-a-revision",
-          title: 'Our work submitted to Freshwater Biology has had a revision.',
+            },},{id: "news-qi-s-work-submitted-to-freshwater-biology-has-had-a-revision",
+          title: 'Qi’s work submitted to Freshwater Biology has had a revision',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
