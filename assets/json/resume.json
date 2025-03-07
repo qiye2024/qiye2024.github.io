@@ -28,22 +28,27 @@
       "location": "Boston, USA",
       "url": "https://www.northeastern.edu/",
       "area": "Marine and Environmental Sciences",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2024-09-01",
-      "endDate": "2029-06-30",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2029-06-30"
     },
     {
-      "insitution": "China University of Geosciences (Beijing)",
+      "institution": "China University of Geosciences (Beijing)",
       "location": "Beijing, China",
       "url": "https://en.cugb.edu.cn/",
       "area": "Geological Engineering",
-      "studyType": "Master",
+      "studyType": "M.E.",
       "startDate": "2018-09-01",
-      "endDate": "2021-06-30",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2021-06-30"
+    },
+    {
+      "institution": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "url": "https://www.zju.edu.cn/english/",
+      "area": "Environmental Engineering",
+      "studyType": "B.E.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-30"
     }
   ],
   "work": [
