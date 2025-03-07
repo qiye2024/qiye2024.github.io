@@ -6,21 +6,7 @@
     "email": "ye.qi2@northeastern.edu",
     "phone": "(339) 242-2061",
     "url": "https://qiye2024.github.io/",
-    "summary": "A Ph.D. student studying coastal biogeochemistry, focusing on benthic processes, estuarine connectivity, and extreme event impacts.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "A Ph.D. student studying coastal biogeochemistry, focusing on benthic processes, estuarine connectivity, and extreme event impacts."
   },
   "education": [
     {
@@ -53,13 +39,18 @@
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences",
+      "position": "Research Assistant",
+      "startDate": "2021-07-01",
+      "endDate": "2024-05-01",
+      "summary": "I monitored lakes and reservoirs monthly, analyzed data, compiled reports, and conducted related research tasks.",
+    },
+    {
+      "name": "Institute of Earth Sciences, China University of Geosciences (Beijing)",
+      "position": "MC-ICP-MS Laboratory Manager",
+      "startDate": "2019-09-01",
+      "endDate": "2020-09-01",
+      "summary": "I managed the MC-ICP-MS Lab, oversaw instrument maintenance, conducted sample testing, scheduled operations, and trained students in MC-ICP-MS usage.",
     }
   ],
   "volunteer": [
