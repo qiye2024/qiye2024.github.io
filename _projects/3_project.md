@@ -2,7 +2,7 @@
 layout: page
 title: Limnology
 description: Freshwater Nutrient Dynamics and Phytoplankton Numerical Ecology
-img: assets/img/ra.jpg
+img: assets/img/ra_cover.jpg
 importance: 2
 category: work
 related_publications: true
@@ -17,7 +17,7 @@ As a research assistant working with Prof. Kaining Chen and Prof. Xiaoli Shi, I 
     </div>
 </div>
 <div class="caption">
-    Lake if green during cyanobacteria blooms.
+    Lake is green during cyanobacteria blooms.
 </div>
 
 <div class="row">
@@ -29,4 +29,4 @@ As a research assistant working with Prof. Kaining Chen and Prof. Xiaoli Shi, I 
     But the sunsets never fail to impress.
 </div>
 
-The results are included in two papers published in Journal of Oceanography and Limnology {% cite chen2024response wu2024climate wu2024response %}.
+The results are included in three papers published in Science of The Total Environment and Journal of Oceanography and Limnology {% cite chen2024response wu2024climate wu2024response %}.
