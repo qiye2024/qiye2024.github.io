@@ -82,9 +82,9 @@ ninja.data = [{
             },},{id: "news-qi-s-work-submitted-to-freshwater-biology-has-had-a-revision",
           title: 'Qi’s work submitted to Freshwater Biology has had a revision',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-environmental-toxicology",
+          title: 'Environmental Toxicology',
+          description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
