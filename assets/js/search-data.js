@@ -84,7 +84,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-environmental-toxicology",
           title: 'Environmental Toxicology',
-          description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli.",
+          description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
