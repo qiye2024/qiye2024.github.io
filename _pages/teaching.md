@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Teaching Assistant, Lab for Biostatistics (ENVR 2501)
-nav: true
+nav: false
 nav_order: 6
 ---
 
