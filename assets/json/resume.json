@@ -156,9 +156,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "`R`",
-        "`Python`",
-        "$\\textnormal{\\LaTeX}$"
+        "R",
+        "Python",
+        "$\\LaTeX$"
       ]
     },
     {
@@ -213,12 +213,10 @@
       "name": "Environmental Sciences",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Data Science",
-        "Oceanography",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Relationships between climate change, human activities, and aquatic system.",
+        "Environmental complex systems modeling",
+        "Large-scale dataset modeling and simulation.",
+        "Environmental sustainability and environmental geochemistry."
       ]
     }
   ],
