@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Qi Ye",
-    "label": "Scientist",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ye.qi2@northeastern.edu",
+    "phone": "(339) 242-2061",
+    "url": "https://qiye2024.github.io/",
+    "summary": "A Ph.D. student studying coastal biogeochemistry, focusing on benthic processes, estuarine connectivity, and extreme event impacts.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,24 +24,24 @@
   },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northeastern University",
+      "location": "Boston, USA",
+      "url": "https://www.northeastern.edu/",
+      "area": "Marine and Environmental Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2024-09-01",
+      "endDate": "2029-06-30",
       "score": "10",
       "courses": ["Theory of Relativity"]
     },
     {
-      "insitution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "insitution": "China University of Geosciences (Beijing)",
+      "location": "Beijing, China",
+      "url": "https://en.cugb.edu.cn/",
+      "area": "Geological Engineering",
+      "studyType": "Master",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-30",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
