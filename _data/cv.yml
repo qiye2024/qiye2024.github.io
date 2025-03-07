@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Qi Ye
+    - name: Label
+      value: Ph.D. Student
+    - name: email
+      value: ye.qi2@northeastern.edu
+    - name: url
+      value: https://qiye2024.github.io
 
 - title: Education
   type: time_table
