@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant, Lab for Biostatistics (ENVR 2501)
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I Served as the instructor of 2 sections of Lab for Biostatistics (ENVR 2501), an undergraduate course with 19 students each.
+Each week, I gave a one-hour lecture per section on advanced statistical methods in R (Bayesian/frequentist approaches, linear/generalized linear models, mixed-effects models, multivariate statistics, and ensemble modeling), followed by a two-hour Q&A session. During these sessions, I provided hands-on instruction and worked closely with the students on real-world data analysis to ensure that they developed strong practical skills in R.
