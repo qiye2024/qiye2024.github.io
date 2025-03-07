@@ -122,25 +122,32 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Pangenomic and functional investigations for dormancy and biodegradation features of an organic pollutant-degrading bacterium Rhodococcus biphenylivorans TG9",
+      "publisher": "Science of The Total Environment",
+      "releaseDate": "2022-02-25",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969721062197",
+      "summary": "This study investigates the relationship between dormancy and biodegradation in Rhodococcus biphenylivorans TG9, highlighting its ability to degrade various organic pollutants, including biphenyl and polychlorinated biphenyls. Genomic and functional analyses reveal key genes involved in dormancy, resuscitation, and degradation, providing insights into enhancing bioremediation strategies."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Response of a submerged macrophyte (Vallisneria natans) to water depth gradients and sediment nutrient concentrations",
+      "publisher": "Science of The Total Environment",
+      "releaseDate": "2024-02-20",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969723077847",
+      "summary": "This study examines how water depth and sediment nutrient levels influence the growth of Vallisneria natans, revealing that water depth has a stronger impact by inducing morphological and physiological adaptations to light stress. While the plant enhances root structure and photosynthetic efficiency to cope with environmental changes, excessive water depth and nutrient limitations can hinder its growth, highlighting implications for lake management and ecological restoration."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Response of phytoplankton functional group to spring drought in a large subtropical reservoir",
+      "publisher": "Journal of Oceanology and Limnology",
+      "releaseDate": "2024-07-23",
+      "url": "https://link.springer.com/article/10.1007/s00343-024-3190-1",
+      "summary": "This study examines the impact of drought on the aquatic environment and phytoplankton succession in Daxi Reservoir, revealing that lower water levels intensify sediment resuspension, increasing phosphorus-enriched turbidity and shifting phytoplankton composition toward diatoms adapted to turbid, nutrient-rich conditions. Given the challenges of nutrient control, timely water replenishment is recommended as a practical strategy to manage harmful algae and maintain reservoir ecological stability during droughts."
+    },
+    {
+      "name": "Climate changes drive phytoplankton community through complementarity and selection effects in a large mesotrophic reservoir",
+      "publisher": "Journal of Oceanology and Limnology",
+      "releaseDate": "2024-09-27",
+      "url": "https://link.springer.com/article/10.1007/s00343-024-3260-4",
+      "summary": "This study analyzes long-term data from Daxi Reservoir, showing that increasing precipitation and water temperature have led to stronger thermal stratification, lower nitrogen levels, and a more diverse and productive phytoplankton community. Despite stable nutrient levels, cyanobacteria have increased due to shifts in niche complementarity and selection effects, highlighting the need for stricter phosphorus control to mitigate future risks under climate change."
     }
   ],
   "skills": [
