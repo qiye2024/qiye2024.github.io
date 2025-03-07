@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Environmental Toxicology
-description: Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli.
+description: Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli
 img: assets/img/undergrad_cover.jpg
 importance: 4
 category: work
