@@ -31,7 +31,7 @@ I'm a Ph.D. student in Marine and Environmental Sciences at [Northeastern Univer
 
 At Northeastern, my research focuses on environmental data science and coastal biogeochemistry, particularly benthic-pelagic interactions and nutrient flux dynamics in estuarine systems. The fundamental questions of my research are:
 
-1. How do long-term trends and modeling approaches quantify biogeochemical processes in Plum Island Estuary?
+1. How do long-term trends and modeling approaches quantify biogeochemical processes in Plum Island Estuary (PIE), Massachusetts?
 2. How do nutrient fluxes, oxygen dynamics, and sediment properties in PIE compare to other Northeastern U.S. estuaries?
 3. What are the connectivity patterns among different coastal systems, and how do extreme events influence estuarine dynamics?
 
