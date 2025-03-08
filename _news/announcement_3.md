@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Qi's work submitted to <em>Freshwater Biology</em> has had a revision
+Qi's work submitted to <em>Freshwater Biology</em> received a revision
