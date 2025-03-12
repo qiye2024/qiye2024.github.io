@@ -72,8 +72,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-qi-s-work-submitted-to-freshwater-biology-received-a-revision",
-          title: 'Qi’s work submitted to Freshwater Biology received a revision',
+            },},{id: "news-qi-s-work-submitted-to-freshwater-biology-received-a-major-revision",
+          title: 'Qi’s work submitted to Freshwater Biology received a major revision',
           description: "",
           section: "News",},{id: "projects-environmental-toxicology",
           title: 'Environmental Toxicology',
