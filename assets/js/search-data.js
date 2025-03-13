@@ -80,9 +80,9 @@ ninja.data = [{
           description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-isotope-geochemistry",
-          title: 'Isotope Geochemistry',
-          description: "An Improved Method for Precise Selenium Isotope Determination",
+            },},{id: "projects-an-improved-method-for-precise-selenium-isotope-determination",
+          title: 'An Improved Method for Precise Selenium Isotope Determination',
+          description: "Isotope Geochemistry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-limnology",
