@@ -1,7 +1,7 @@
 ---
 layout: page
-title: An Improved Method for Precise Selenium Isotope Determination
-description: Isotope Geochemistry
+title: Isotope Geochemistry
+description: An Improved Method for Precise Selenium Isotope Determination
 img: assets/img/master_cover.jpg
 importance: 3
 category: work
