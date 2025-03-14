@@ -46,8 +46,10 @@ These projects aimed to evaluate how increasing temperatures, precipitation, and
 ## **Significance**  
 - **Scientific Contribution**: This study enhances our understanding of how climate change influences phytoplankton dynamics in reservoirs, emphasizing the roles of thermal stratification, nutrient shifts, and sediment resuspension.  
 - **Environmental Impact**: Findings contribute to strategies for managing harmful algal blooms, which threaten water quality and aquatic biodiversity.  
-- **Practical Applications**: The results support climate-adaptive reservoir management policies, focusing on nutrient control and water level regulation to maintain ecological stability.  
+- **Practical Applications**: The results support climate-adaptive reservoir management policies, focusing on nutrient control and water level regulation to maintain ecological stability.
 
-The results are included in three papers published in Science of The Total Environment and Journal of Oceanology and Limnology {% cite wu2024climate wu2024response chen2024response %}.
+These projects laid a strong foundation for my current Ph.D. work, where I continue exploring **biogeochemical cycles and elemental fluxes in coastal environments**.
+
+The results are included in three papers published in *Journal of Oceanology and Limnology* and *Science of The Total Environment* {% cite wu2024climate wu2024response chen2024response %}.
 <br><br>
 <br><br>
