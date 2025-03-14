@@ -11,6 +11,15 @@ related_publications: false
 ## **Overview**
 Selenium (Se) plays a crucial role in geochemical and biological processes. Its stable isotope variations provide valuable insights into redox conditions, paleoceanography, and environmental studies. My master's research focused on developing a **more efficient and precise method for selenium isotope analysis**, improving the chemical purification process, and applying it to different sample types.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/master_1.jpg" title="MC-ICP-MS analysis setup" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Selenium cycling in the environment.
+</div>
+
 ## **Key Contributions**
 ### 1. Developing a More Efficient Selenium Purification Method
 - Replaced traditional **thiol cotton fiber** with **silica-based thiol resin**, enhancing efficiency and purity.
@@ -22,7 +31,7 @@ Selenium (Se) plays a crucial role in geochemical and biological processes. Its 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/master_1.jpg" title="MC-ICP-MS analysis setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/master_2.jpg" title="MC-ICP-MS analysis setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +45,7 @@ Selenium (Se) plays a crucial role in geochemical and biological processes. Its 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/master_2.jpg" title="Selenium isotope ratios of selected materials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/master_3.jpg" title="Selenium isotope ratios of selected materials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
