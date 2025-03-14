@@ -13,9 +13,9 @@ As a Ph.D. student working with Prof. Cristina Schultz, I’m dedicated to evalu
 3. Comparing patterns across estuaries by examining how PIE’s nutrient fluxes, oxygen dynamics, and sediment properties differ from other northeastern U.S. estuaries, while exploring connectivity between these coastal systems.
 4. Assessing the impact of extreme events (e.g., storms, heatwaves) on estuarine dynamics and developing guidelines for future long-term monitoring and data integration to improve our understanding of estuarine resilience.
 
-<div class="row">
+<div class="row" justify-content-sm-center>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/phd_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phd_1.jpg" title="PIE LTER site map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
