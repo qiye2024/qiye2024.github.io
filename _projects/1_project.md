@@ -41,7 +41,7 @@ Polychlorinated biphenyls (PCBs) are persistent organic pollutants that pose ser
  - Over time, PCBs exerted increasing toxic effects, leading to growth inhibition.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/undergrad_3.jpg" title="Growth of E. coli to different concentrations of PCB 18" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
