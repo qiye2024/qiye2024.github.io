@@ -48,6 +48,6 @@ These projects aimed to evaluate how increasing temperatures, precipitation, and
 - **Environmental Impact**: Findings contribute to strategies for managing harmful algal blooms, which threaten water quality and aquatic biodiversity.  
 - **Practical Applications**: The results support climate-adaptive reservoir management policies, focusing on nutrient control and water level regulation to maintain ecological stability.  
 
-The results are included in three papers published in Science of The Total Environment and Journal of Oceanology and Limnology {% cite chen2024response wu2024climate wu2024response %}.
+The results are included in three papers published in Science of The Total Environment and Journal of Oceanology and Limnology {% cite wu2024climate wu2024response chen2024response %}.
 <br><br>
 <br><br>
