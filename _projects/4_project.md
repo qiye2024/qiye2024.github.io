@@ -22,4 +22,4 @@ As a Ph.D. student working with Prof. Cristina Schultz, I’m dedicated to evalu
     PIE Long Term Ecological Research (LTER) site map.
 </div>
 
-**Keep moving forward**.
+**Keep moving forward.**
