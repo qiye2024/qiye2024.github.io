@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oceanography
+title: Oceanology
 description: Linking Terrestrial Inputs, Costal Benthic Fluxes, and Carbon Dynamics
 img: assets/img/phd_cover.jpg
 importance: 1
