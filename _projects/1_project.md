@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Environmental Toxicology
-description: Hormesis Response of Polychlorinated Biphenyls to *Escherichia Coli*
+description: Hormesis Response of Polychlorinated Biphenyls to <em>Escherichia Coli</em>
 img: assets/img/undergrad_cover.jpg
 importance: 4
 category: work
@@ -24,7 +24,7 @@ The title of my undergrad’s thesis is Hormesis Response of Polychlorinated Bip
     </div>
 </div>
 <div class="caption">
-    On the left, a microplate based, high throughput test method for *E. coli* growth. Middle, absorbance over time of various microplates. Right, growth of *E. coli* to different concentrations of PCB 18 for different lengths of time.
+    On the left, a microplate based, high throughput test method for <em>E. coli</em> growth. Middle, absorbance over time of various microplates. Right, growth of <em>E. coli</em> to different concentrations of PCB 18 for different lengths of time.
 </div>
 
 The results are included in a paper published in *Science of The Total Environment* {% cite yu2022pangenomic %}.
