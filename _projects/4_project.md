@@ -14,7 +14,7 @@ As a Ph.D. student working with Prof. Cristina Schultz, I’m dedicated to evalu
 4. Assessing the impact of extreme events (e.g., storms, heatwaves) on estuarine dynamics and developing guidelines for future long-term monitoring and data integration to improve our understanding of estuarine resilience.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/phd_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
