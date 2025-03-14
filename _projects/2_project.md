@@ -57,4 +57,3 @@ Selenium (Se) plays a crucial role in geochemical and biological processes. Its 
 - **Expanded Reference Database**: Provided reliable selenium isotope data for multiple reference materials, aiding future research.
 - **Wide-Ranging Applications**: Supports studies in **redox process reconstruction, environmental pollution tracking, and paleoceanography**.
 
-This research laid a strong foundation for my current Ph.D. work, where I continue exploring **biogeochemical cycles and elemental fluxes in coastal environments**.
