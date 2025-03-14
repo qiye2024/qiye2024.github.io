@@ -90,8 +90,8 @@ ninja.data = [{
           description: "Freshwater Nutrient Dynamics and Phytoplankton Numerical Ecology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-oceanography",
-          title: 'Oceanography',
+            },},{id: "projects-oceanology",
+          title: 'Oceanology',
           description: "Linking Terrestrial Inputs, Costal Benthic Fluxes, and Carbon Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
