@@ -27,6 +27,6 @@ The title of my undergrad’s thesis is Hormesis Response of Polychlorinated Bip
     On the left, a microplate based, high throughput test method for E. coli growth. Middle, absorbance over time of various microplates. Right, growth of E. coli to different concentrations of PCB 18 for different lengths of time.
 </div>
 
-The results are included in a paper published in Science of The Total Environment {% cite yu2022pangenomic %}.
+The results are included in a paper published in *Science of The Total Environment* {% cite yu2022pangenomic %}.
 <br><br>
 <br><br>
