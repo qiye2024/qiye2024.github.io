@@ -27,7 +27,7 @@ Selenium (Se) plays a crucial role in geochemical and biological processes. Its 
 
 ### 2. High-Precision Isotope Ratio Measurement with Double Spike (DS) Method
 - Applied the **double spike method** to correct for mass-dependent fractionation in MC-ICP-MS analysis.
-- Achieved a δ⁸²/⁷⁶Se value of **0.00 ± 0.15‰ (2SD, n=191)** for the NIST SRM 3149 standard solution.
+- Achieved a δ<sup>82/76</sup>Se value of **0.00 ± 0.15‰ (2SD, n=191)** for the NIST SRM 3149 standard solution.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
