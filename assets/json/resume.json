@@ -218,6 +218,14 @@
         "- Large-scale dataset modeling and simulation.",
         "- Environmental sustainability and environmental geochemistry."
       ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "- Table tennis 🏓",
+        "- Basketball 🏀"
+      ]
     }
   ],
   "references": [
