@@ -32,11 +32,13 @@ Polychlorinated biphenyls (PCBs) are persistent organic pollutants that pose ser
  - Ten PCB congeners (dichlorinated, trichlorinated, and tetrachlorinated) were tested for their effects on *E. coli* growth.
  - PCBs exhibited hormesis responses characterized by low-dose stimulation and high-dose inhibition.
  - The extent of stimulation was dependent on the chlorine substitution pattern.
+
 ### 3. Structural Dependence of PCB Hormesis Effects
  - Coplanar PCBs (e.g., PCB 12, PCB 61, PCB 77) showed weaker stimulation and stronger inhibition at high concentrations.
  - Non-Coplanar PCBs (e.g., PCB 8, PCB 10, PCB 18, PCB 28, PCB 40, PCB 52) exhibited more pronounced stimulation effects, particularly at short exposure durations.
  - Lower-chlorinated PCBs tended to induce stronger stimulation effects than higher-chlorinated ones.
-### 4. Time-Dependent Effects of PCBs on E. coli
+
+### 4. Time-Dependent Effects of PCBs on *E. coli*
  - Hormesis effects were most significant within the first few hours of exposure.
  - Over time, PCBs exerted increasing toxic effects, leading to growth inhibition.
 
