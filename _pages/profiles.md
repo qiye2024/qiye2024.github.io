@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: 🐱
-description: Wow, you just found an adorable cat here!
+description: You just found an adorable cat here!
 nav: false
 nav_order: 7
 
