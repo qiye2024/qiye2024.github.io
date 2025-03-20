@@ -20,5 +20,5 @@ profiles:
     content: shasha_2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Shasha, lovingly held by Blanca, Qi's wife.</p>
+      <p>Shasha, lovingly held by Blanca.</p>
 ---
