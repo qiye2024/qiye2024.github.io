@@ -78,7 +78,12 @@ ninja.data = [{
           section: "News",},{id: "news-qi-s-work-influence-of-coverage-and-diversity-of-submerged-macrophytes-on-the-sediment-bacterial-community-in-dongshan-bay-lake-taihu-has-been-accepted-for-publication-in-freshwater-biology-sparkles-smile",
           title: 'Qi’s work, “Influence of coverage and diversity of submerged macrophytes on the sediment...',
           description: "",
-          section: "News",},{id: "projects-environmental-toxicology",
+          section: "News",},{id: "news-qi-led-a-hands-on-cbed-modeling-session-at-the-ocb-becs-workshop-hosted-at-princeton-university",
+          title: 'Qi led a hands-on CBED modeling session at the OCB–BECS Workshop hosted at...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "projects-environmental-toxicology",
           title: 'Environmental Toxicology',
           description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli",
           section: "Projects",handler: () => {
