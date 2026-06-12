@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. student in Marine and Environmental Sciences at [Northeastern University](https://www.northeastern.edu), working under the guidance of [Prof. Cristina Schultz](https://cos.northeastern.edu/people/cristina-schultz/). Before landing in Boston, I worked as a research assistant at [Nanjing Institute of Geography and Limnology](http://english.niglas.cas.cn), Chinese Academy of Sciences. I did my undergrad at [Zhejiang University](https://www.zju.edu.cn/english/) and my master's at [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/).
+I'm a Ph.D. Candidate in Marine and Environmental Sciences at [Northeastern University](https://www.northeastern.edu), working under the guidance of [Prof. Cristina Schultz](https://cos.northeastern.edu/people/cristina-schultz/). Before landing in Boston, I worked as a research assistant at [Nanjing Institute of Geography and Limnology](http://english.niglas.cas.cn), Chinese Academy of Sciences. I did my undergrad at [Zhejiang University](https://www.zju.edu.cn/english/) and my master's at [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/).
 
 At Northeastern, my research focuses on environmental data science and coastal biogeochemistry, particularly benthic-pelagic interactions and nutrient flux dynamics in estuarine systems. The fundamental questions of my research are:
 
