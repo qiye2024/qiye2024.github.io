@@ -53,6 +53,11 @@ jobs:
             --user-agent 'curl/7.54'
             --verbose
             --no-progress
-            --exclude-path '(^|/)_pages/blog\.md$'
-            './_pages/*.md'
+            --
+            './_pages/about.md'
+            './_pages/cv.md'
+            './_pages/publications.md'
+            './_pages/projects.md'
+            './_pages/teaching.md'
+            './_pages/news.md'
             './_news/*.md'
