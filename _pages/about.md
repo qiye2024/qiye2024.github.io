@@ -6,7 +6,7 @@ subtitle: <em>"Eternity begins and ends with the ocean's tides."</em>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Artist Bluff, NH, Oct 2026</p>
