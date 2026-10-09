@@ -83,7 +83,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "projects-environmental-toxicology",
+            },},{id: "news-qi-s-abstract-comparing-drivers-of-nutrient-dynamics-in-two-atlantic-salt-marshes-through-long-term-data-analysis-and-one-dimensional-biogeochemical-modeling-has-been-accepted-for-a-12-minute-oral-presentation-at-the-aslo-2027-aquatic-sciences-meeting-feb-28-mar-5-2027-san-juan-puerto-rico-tada",
+          title: 'Qi’s abstract, “Comparing Drivers of Nutrient Dynamics in Two Atlantic Salt Marshes Through...',
+          description: "",
+          section: "News",},{id: "projects-environmental-toxicology",
           title: 'Environmental Toxicology',
           description: "Hormesis Response of Polychlorinated Biphenyls to Escherichia Coli",
           section: "Projects",handler: () => {
