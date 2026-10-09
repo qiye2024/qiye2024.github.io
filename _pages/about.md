@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>San Francisco, Dec 2024</p>
+    <p>Artist Bluff, NH, Oct 2026</p>
     <br><br>
     <br><br>
 
